@@ -19,3 +19,15 @@ This project implements a web page that validates user input using JavaScript Re
 - Full Name:Only alphabetic characters and spaces are allowed.
 - Email Address: Must follow a valid email format.
 - Phone Number: Only digits, must be 10-15 characters long.
+
+## How to Run the Project
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/js-regex-validation_Your_Name.git
+   ```
+2. Open `index.html` in a web browser.
+
+##. Your project will be hosted at:
+   ```
+   https://yourusername.github.io/js-regex-validation_Your_Name/
+   ```  
